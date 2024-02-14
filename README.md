@@ -1,5 +1,5 @@
 # password-generator
 
--this project is constructor with python and more one lib(random).
+This project is constructor with python and more one lib(random).
 
--That's it!
+That's it!
