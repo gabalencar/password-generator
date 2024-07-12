@@ -1,6 +1,6 @@
 from random import choice
 import string
-#funções do codigo
+#funções do codigo.
 
 def gerador_n(tamanho):
  valores= string.digits
